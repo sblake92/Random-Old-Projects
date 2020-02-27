@@ -1,0 +1,30 @@
+Q:
+Is it an animal?
+Q:
+Can it fly?
+A:
+bird
+Q:
+Does it have a tail?
+A:
+mouse
+A:
+spider
+Q:
+Does it have wheels?
+Q:
+Does it have more than two wheels?
+Q:
+Is it used to drive kids to school?
+A:
+tank
+A:
+car
+A:
+bicycle
+Q:
+Is it nice?
+A:
+TA
+A:
+teacher

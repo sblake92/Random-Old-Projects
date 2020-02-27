@@ -1,0 +1,17 @@
+Question 1) One advantage is that it allows you to set a base line for general ticket sales, then if something changes you 
+already have the format set, you can just adjust some values. Like with the VIP ticket.
+
+Question 2) In my program I put "Owner's Name Here" as the default, but set up my classes to allow a name to be entered for both
+VIP and regualar tickets by adding a constructer that takes a string n as a parameter and set owner = n, allowing me to change the name
+
+Question 3) My first thought is to have a Scanner Console feature that would ask if you would like to purchase a ticket,
+have an if/else statement that would then prompt you through the next steps to allow you to purchase a ticket by asking for
+a method of payment with another if/else statement; although I would really only be prepared for a credit card at this point
+in my coding skill. I could prove if it was a valid card by the total numbers entered but thats about as far as I could take that.
+
+Question 4) Well, like my answer above I would create a payment class that would extend VIP so I could easily access both classes.
+The classs would take the cost from the appropriate class, and add taxes and services fees. It would have a getPayment method that
+would allow the user to choose from a few payment options (for simplicity purposes it would just be credit card like stated previously)
+I would also have a tax feature that would take input from a txt file that contained the sales tax for each state, and a flat rate fee 
+for international purchases. I could also have a variety of discount codes, that when prompted for a code if a valid one is entered it 
+reduces cost, or gives some extra something to the buyer through a series of if/else statements.
